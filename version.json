@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "notes": "Radar avatar markers, universal object ESP, teleport detection, toasts. VSync removed - it was costing 41ms of a 47ms frame.",
+  "url": "https://github.com/lightskip/Bubble-tea-/releases"
+}
